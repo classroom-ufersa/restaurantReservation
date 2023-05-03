@@ -16,12 +16,11 @@
 - Consumption;
 
 ## Menu options:
-1. Adicionar Reserva;
-2. Exluir reserva;
-3. Listar reservas marcadas;
-4. Buscar reserva;
-5. Editar cadastro de reserva;
-6. Consultar cadastro de reserva;
-7. Sair;
-
+1. Add Reservation;
+2. Delete reservation;
+3. List marked reservations;
+4. Search for reservation;
+5. Edit reservation record;
+6. Consult reservation record;
+7. Exit;
 
