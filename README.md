@@ -15,7 +15,7 @@
 - Table number;
 - Consumption;
 
-## Menu options:
+### Menu options:
 1. Add Reservation;
 2. Delete reservation;
 3. List marked reservations;
