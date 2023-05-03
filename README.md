@@ -1,4 +1,4 @@
-# restaurantReservation
+# Restaurant Reservation
 
 ## Basic attributes of restaurant:
 - Location;
