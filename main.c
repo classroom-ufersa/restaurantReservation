@@ -5,14 +5,16 @@
 int main(void){
   
   char location;
-  int totalTables = 0, totalBookings = 0;
+  int totalTables = 0, totalBookings = 0, op;
   RESERVA reservations;  
   DATA openingTime, closingTime; 
 }
 
-printf("-----------------------------------------------");
-printf("Welcome to the Restaurant Reservation system:\n 01.Add Reservation\n02.Delete Reservation \n03.List marked reservation\n04. Search Reservation\n05. Edit reservation record\ n06.Check reservation for a customer\n07. Exit"
-
+printf("--------------------------------------------------------");
+printf("Bem vindo ao sistema de reserva do restaurante Oiticica:\n01.Adicionar nova reserva\n02.deletar reserva\n03.Listar reserva\n04. Pesquisar reserva\n05. editar cadastro de reserva\ n06.Consultar reserva para um cliente\n07. Sair\nEscolha uma opção para prosseguir..."
+scanf("%d",&op);
+      
+ 
 
 
 
